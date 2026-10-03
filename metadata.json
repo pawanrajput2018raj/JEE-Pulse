@@ -1,0 +1,6 @@
+{
+  "name": "JEE Journey Tracker",
+  "description": "Daily question and consistency tracker for JEE aspirants across Physics, Chemistry, and Math with per-question stopwatch timers, flowing overlay mode, weekly/monthly analytics, streak targets, milestone badges, offline access, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
